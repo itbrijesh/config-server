@@ -8,4 +8,4 @@ spring:
           uri: https://github.com/itbrijesh/central-config-repository
           searchPaths: microservice1
           username: itbrijesh
-          password: Brijesh123
+          password: --password--
